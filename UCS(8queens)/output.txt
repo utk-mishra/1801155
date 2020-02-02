@@ -1,0 +1,12 @@
+Output for 8-queens problem-
+
+The output is a chess board of 8x8 where all queens are placed such that no queen cut each other.
+output-
+	1 0 0 0 0 0 0 0 
+	0 0 0 0 1 0 0 0 
+	0 0 0 0 0 0 0 1 
+	0 0 0 0 0 1 0 0 
+	0 0 1 0 0 0 0 0 
+	0 0 0 0 0 0 1 0 
+	0 1 0 0 0 0 0 0 
+	0 0 0 1 0 0 0 0 
