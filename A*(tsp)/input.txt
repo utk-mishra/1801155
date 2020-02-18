@@ -1,0 +1,28 @@
+Input in Travelling Salesaman Problem using A* algorithm-
+
+In the starting I have declared city and is defined as 11 so there are total of 11 nodes,so if you want to change input first change the city node.
+
+distance between each node is given as a 2d matrix (11x11) which is also initialize in the main function.
+
+2d matrix of size 11x11 given is 
+	{0 , 8 ,50 ,31 ,12 ,48 ,36 , 2 , 5 ,39 ,10,},
+        {8 , 0 ,38 , 9 ,33 ,37 ,22 , 6 , 4 ,14 ,32,},
+        {50, 38,  0, 11, 55,  1, 23, 46, 41, 17, 52 ,},
+        {31,  9, 11,  0, 44, 13, 16, 19, 25, 18, 42 ,},
+        {12, 33, 55, 44,  0, 54, 53, 30, 28, 45,  7 ,},
+        {48, 37,  1, 13, 54,  0, 26, 47, 40, 24, 51 ,},
+        {36, 22, 23, 16, 53, 26,  0, 29, 35, 34, 49 ,},
+        {2 , 6 ,46 ,19 ,30 ,47 ,29 , 0 , 3 ,27 ,15 ,},
+        {5 , 4 ,41 ,25 ,28 ,40 ,35 , 3 , 0 ,20 ,21 ,},
+        {39, 14, 17, 18, 45, 24, 34, 27, 20,  0, 43 ,},
+        {10, 32, 52, 42,  7, 51, 49, 15, 21, 43,  0 ,}
+
+
+another 2d matrix given of size 4x4 is
+	{0,10,15,20},
+	{10,0,35,25},
+	{15,35,0,30},
+	{20,25,30,0}
+
+
+

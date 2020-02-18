@@ -1,0 +1,12 @@
+Output of tsp using A* algorithm-
+
+output is given in two lines giving the path and its corresponding cost
+
+1)output of the first input is 
+Path: 1 5 11 8 7 4 6 3 10 2 9 1
+Cost: 133
+
+2)output of the second input is
+Path: 1 2 4 3 1
+Cost: 80
+
