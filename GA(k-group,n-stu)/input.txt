@@ -1,0 +1,40 @@
+Input for genetic algorithm-
+
+first we are asked value of n which is stored in the variable n;
+second we are asked number of groups we want to arrange them and its value is stored in k;
+after that we are asked to provide the marks of each student and they are stored in vector stu_marks;
+
+first input-
+enter value of n:10
+how many groups:3
+enter marks:23
+24
+56
+45
+78
+24
+65
+46
+66
+33
+
+
+second input-
+enter value of n:15
+how many groups:4
+enter marks:46
+67
+34
+24
+46
+34
+75
+4
+55
+66
+44
+54
+61
+34
+59
+

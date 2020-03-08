@@ -1,0 +1,21 @@
+Output of the genetic algorithm-
+
+The output is given in two paragraph 
+
+First line tells about the marks cluster leader 
+Second one tells about the group followed by student marks present in that group
+
+1)output for first input-
+groups leaders-24 33 56 
+
+24->23 24 24 
+33->33 
+56->56 45 78 65 46 66
+
+2)output for second input-
+groups leaders-34 44 61 67 
+
+34->34 24 34 4 34 
+44->46 46 44 
+61->55 54 61 59 
+67->67 75 66
