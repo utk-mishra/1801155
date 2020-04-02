@@ -1,0 +1,70 @@
+Input for minimax game:
+
+There are two aspect of this game 1)AI vs AI      2)AI vs HUMAN.
+We have to press 1 for AI vs AI and press 2 for AI vs HUMAN.
+
+AI vs AI:
+Then we are asked for number of stick we want to play and
+Then to start game we have to do toss and for this we have to type 'm' and then press 'enter'.
+Then to see another chance what AI has choose we have to type 'm' and then 'enter'.
+we have to repeat this process till all stick are finish..
+
+1)input for 13 sticks-
+	press 1 for AI vs AI
+	press 2 for AI vs HUMAN
+	1
+	how many stick you want to play with---13
+	enter for toss
+
+	m
+	AI-1 won the toss!AI-1 chance first  press enter
+
+2)input for 53 sticks-
+	press 1 for AI vs AI
+	press 2 for AI vs HUMAN
+	1   
+	how many stick you want to play with---53
+	enter for toss
+
+	m
+	AI-2 won the toss!AI-2 chance first press enter
+
+
+AI vs HUMAN:
+If we pressed 2 we reached AI vs HUMAN mode
+Then we are asked for number of stick we want to play and
+Now for the toss we have to choose heads or tail
+As the probability you will either win or loose
+Then you have to consectively chose number of stick you want to pick up and enter till there is only 1 stick is left
+As according you will win or lose
+
+1)input for 13 sticks-
+	press 1 for AI vs AI
+	press 2 for AI vs HUMAN
+	2
+	how many stick you want to play with---13
+	game starts
+	press 1 for HEADS
+	press 2 for TAIL
+	2
+	you loose the toss!   computer chance first
+	Computer picks 1 sticks
+
+	sticks left:12
+
+
+2)input for 21 sticks-
+	press 1 for AI vs AI
+	press 2 for AI vs HUMAN
+	2
+	how many stick you want to play with---21
+	game starts
+	press 1 for HEADS
+	press 2 for TAIL
+	2
+	you loose the toss!   computer chance first
+	Computer picks 1 sticks
+
+
+
+

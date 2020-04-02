@@ -1,0 +1,155 @@
+Output for minimax game tree-
+AI vs AI :
+
+1)for 13 sticks-
+	AI-1 won the toss!AI-1 chance first  press enter
+	AI-1 picks 1 sticks
+	sticks left:12
+	m
+	AI-2 picks 3 sticks
+	sticks left:9
+	m
+	AI-1 picks 1 sticks
+	sticks left:8
+	m
+	AI-2 picks 3 sticks
+	sticks left:5
+	m
+	AI-1 picks 1 sticks
+	sticks left:4
+	m
+	AI-2 picks 3 sticks
+	sticks left:1
+	m
+	AI-2 win
+
+	-'m' is just used to proceed chance... we can use any character key and type enter instead....
+
+2)for 54 sticks-
+	AI-2 won the toss!AI-2 chance first press enter
+	AI-2 picks 1 sticks
+	sticks left:52
+	m
+	AI-1 picks 3 sticks
+	sticks left:49
+	m
+	AI-2 picks 1 sticks
+	sticks left:48
+	m
+	AI-1 picks 3 sticks
+	sticks left:45
+	m
+	AI-2 picks 1 sticks
+	sticks left:44
+	m
+	AI-1 picks 3 sticks
+	sticks left:41
+	m
+	AI-2 picks 1 sticks
+	sticks left:40
+	m
+	AI-1 picks 3 sticks
+	sticks left:37
+	m
+	AI-2 picks 1 sticks
+	sticks left:36
+	m
+	AI-1 picks 3 sticks
+	sticks left:33
+	m
+	AI-2 picks 1 sticks
+	sticks left:32
+	m
+	AI-1 picks 3 sticks
+	sticks left:29
+	m
+	AI-2 picks 1 sticks
+	sticks left:28
+	m
+	AI-1 picks 3 sticks
+	sticks left:25
+	m
+	AI-2 picks 1 sticks
+	sticks left:24
+	m
+	AI-1 picks 3 sticks
+	sticks left:21
+	m
+	AI-2 picks 1 sticks
+	sticks left:20
+	m
+	AI-1 picks 3 sticks
+	sticks left:17
+	m
+	AI-2 picks 1 sticks
+	sticks left:16
+	m
+	AI-1 picks 3 sticks
+	sticks left:13
+	m
+	AI-2 picks 1 sticks
+	sticks left:12
+	m
+	AI-1 picks 3 sticks
+	sticks left:9
+	m
+	AI-2 picks 1 sticks
+	sticks left:8
+	m
+	AI-1 picks 3 sticks
+	sticks left:5
+	m
+	AI-2 picks 1 sticks
+	sticks left:4
+	m
+	AI-1 picks 3 sticks
+	sticks left:1
+	AI-1 win
+ 
+
+AI vs HUMAN:
+1)for 13 sticks-
+	you loose the toss!   computer chance first
+	Computer picks 1 sticks
+
+	sticks left:12
+	how many stick you want to pick up-2
+	Computer picks 1 sticks
+
+	sticks left:9
+	how many stick you want to pick up-2
+	Computer picks 2 sticks
+
+	sticks left:5
+	how many stick you want to pick up-1
+	Computer picks 3 sticks
+
+	you loose!
+			-here the player loose!!
+
+2)for 21 sticks-
+	you loose the toss!   computer chance first
+	Computer picks 1 sticks
+
+	sticks left:20
+	how many stick you want to pick up-3
+	Computer picks 1 sticks
+
+	sticks left:16
+	how many stick you want to pick up-3
+	Computer picks 1 sticks
+
+	sticks left:12
+	how many stick you want to pick up-3
+	Computer picks 1 sticks
+
+	sticks left:8
+	how many stick you want to pick up-3
+	Computer picks 1 sticks
+
+	sticks left:4
+	how many stick you want to pick up-3
+	congrats!!you win
+			-here the player won!!
+
+
