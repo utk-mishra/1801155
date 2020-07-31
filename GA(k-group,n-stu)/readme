@@ -1,0 +1,6 @@
+The compilation process is given below-
+
+1)first we are asked value of n which is stored in the variable n;
+2)second we are asked number of groups we want to arrange them and its value is stored in k;
+3)after that we are asked to provide the marks of each student and they are stored in vector stu_marks;
+4)now the output comes as the First line tells about the marks cluster leader Second one tells about the group followed by student marks present in that group
