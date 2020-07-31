@@ -1,0 +1,5 @@
+The compilation of this code works in the following manner-
+
+1)the code is for the 8queens problem in which we have to set the queen such that all queen are in the safe side
+2)so for the input we do not enter as such any value
+3)we directly run the program and we get the output of a chessboard representing 1 as the place where queen can be placed
