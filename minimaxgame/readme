@@ -1,0 +1,20 @@
+the compilation of this code is following-
+
+There are two aspect of this game 1)AI vs AI      2)AI vs HUMAN.
+We have to press 1 for AI vs AI and press 2 for AI vs HUMAN.
+
+AI vs AI:
+1)Then we are asked for number of stick we want to play
+2)Then to start game we have to do toss and for this we have to type 'm' and then press 'enter'.
+3)Then to see another chance what AI has choose we have to type 'm' and then 'enter'.
+4)we have to repeat this process till all stick are finish..
+5)now to which of the ai will have the last stick that one will be declared as a looser.
+
+
+AI vs HUMAN:
+1)If we pressed 2 we reached AI vs HUMAN mode
+2)Then we are asked for number of stick we want to play and
+3)Now for the toss we have to choose heads or tail
+4)As the probability you will either win or loose
+5)Then you have to consectively chose number of stick you want to pick up and enter till there is only 1 stick is left
+6)As according you will win or lose
