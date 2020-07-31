@@ -1,0 +1,5 @@
+The compilation of code works in the following ways-
+
+1)In the starting I have declared city and is defined as 11 so there are total of 11 nodes,so if you want to change input first change the city node.
+2)distance between each node is given as a 2d matrix (11x11) which is also initialize in the main function you can change it accordingly
+3)so if you run it then it will show the min cost path with its cost.
